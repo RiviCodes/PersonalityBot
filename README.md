@@ -8,4 +8,4 @@ b) If both stats are at the maximum or minimum, the robot is impressed. If neith
 
 c) In addition to that, the robot should give a message if both stats have the same value, if patience is higher, and if kindness is higher. 
 
-Credits to: u/FaallenOon in reddit
+Credits to: u/FaallenOon on reddit
